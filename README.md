@@ -43,19 +43,18 @@ A robust e-commerce platform built with Django and React, featuring:
 - User authentication and authorization
 - Product listings with detailed descriptions
 - Secure payment integration
-![E-commerce Screenshot](https://via.placeholder.com/800x400)
+
 
 ### [Personal Blog](https://github.com/yourusername/personal-blog)
 A sleek and modern personal blogging platform using Flask and Next.js:
 - Markdown support for rich text editing
 - Comment system with moderation features
-![Blog Screenshot](https://via.placeholder.com/800x400)
+
 
 ### [Machine Learning Model](https://github.com/yourusername/ml-model)
 A machine learning project to predict housing prices using TensorFlow and Scikit-Learn:
 - Data visualization with Pandas
 - Model evaluation and performance metrics
-![ML Model Screenshot](https://via.placeholder.com/800x400)
 
 ---
 
