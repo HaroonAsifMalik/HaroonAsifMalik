@@ -1,26 +1,85 @@
 <h1 align="center">Hi 👋, I'm Haroon Asif</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="http://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
 
-- 🔭 I’m currently working on **Blog Application**
+# Welcome to My GitHub!
 
-- 🌱 I’m currently learning **Next.js, Tailwind CSS, React.js, Django**
+![Full Stack Developer](https://img.shields.io/badge/FullStack-Developer-brightgreen)
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![React](https://img.shields.io/badge/React-Expert-blue)
+![Next.js](https://img.shields.io/badge/Next.js-Expert-blue)
+![Django](https://img.shields.io/badge/Django-Expert-blue)
+![Flask](https://img.shields.io/badge/Flask-Expert-blue)
 
-- 📫 How to reach me **haroonasifmalik123@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/haroon-asif-malik/](https://www.linkedin.com/in/haroon-asif-malik/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/haroon asif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haroon asif" height="30" width="40" /></a>
-<a href="https://fb.com/haroon asif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="haroon asif" height="30" width="40" /></a>
-<a href="https://instagram.com/biscuit_malik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="biscuit_malik" height="30" width="40" /></a>
-</p>
+## About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Hi there! I'm Haroon, a passionate Full Stack Developer with extensive experience in building dynamic and responsive web applications. My expertise lies in backend development using Django and Flask in Python, and creating seamless frontend experiences with React and Next.js. I also have a solid foundation in Machine Learning, which allows me to integrate intelligent features into my applications.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haroonasifmalik&show_icons=true&locale=en&layout=compact" alt="biscuitmalik" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haroonasifmalik&show_icons=true&locale=en" alt="biscuitmalik" /></p>
+## Technologies I Work With
+
+### Backend
+- **Python**
+  - Django
+  - Flask
+
+### Frontend
+- **JavaScript**
+  - React
+  - Next.js
+
+### Machine Learning
+- TensorFlow
+- Scikit-Learn
+- Pandas
+
+---
+
+## Key Projects
+
+### [E-commerce Platform](https://github.com/yourusername/ecommerce-platform)
+A robust e-commerce platform built with Django and React, featuring:
+- User authentication and authorization
+- Product listings with detailed descriptions
+- Secure payment integration
+![E-commerce Screenshot](https://via.placeholder.com/800x400)
+
+### [Personal Blog](https://github.com/yourusername/personal-blog)
+A sleek and modern personal blogging platform using Flask and Next.js:
+- Markdown support for rich text editing
+- Comment system with moderation features
+![Blog Screenshot](https://via.placeholder.com/800x400)
+
+### [Machine Learning Model](https://github.com/yourusername/ml-model)
+A machine learning project to predict housing prices using TensorFlow and Scikit-Learn:
+- Data visualization with Pandas
+- Model evaluation and performance metrics
+![ML Model Screenshot](https://via.placeholder.com/800x400)
+
+---
+
+## Client Testimonials
+
+> "Working with Haroon was a fantastic experience. Their expertise in Django and React brought our project to life. Highly recommended!" - **Maarika Nina**
+
+> "A true professional in every sense. Delivered our project on time and exceeded expectations." - **Rafael Heide**
+
+---
+
+## Let's Connect
+
+I am always open to new opportunities and collaborations. Feel free to reach out to me through the following channels:
+
+- [LinkedIn]( https://linkedin.com/in/haroon_asif_malik)
+- [Email](mailto:haroonasifmalik123@gmail.com)
+
+## My GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HaroonAsifMalik&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaroonAsifMalik&layout=compact&theme=radical)
+
+---
+
+Thank you for visiting my GitHub profile. Let's build something amazing together!
 
