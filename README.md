@@ -1,73 +1,109 @@
-<h1 align="center">Hi 👋, I'm Haroon Asif</h1>
+<!-- 🎬 Animated Header -->
 <p align="center">
-  <strong>Full Stack Developer | Python & JavaScript Enthusiast | Crafting Scalable Web Solutions</strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20There,%20I'm%20Haroon%20Asif%20👋&fontAlign=40&fontColor=ffffff&colorGradient=0xff8c00,0xff6f61&animation=twinkling" />
 </p>
 
 <p align="center">
-  <a href="mailto:haroonasifmalik123@gmail.com"><img src="https://img.shields.io/badge/Email-HaroonAsifMalik123@gmail.com-blue?style=flat-square&logo=gmail" /></a>
-  <a href="https://linkedin.com/in/haroon_asif_malik"><img src="https://img.shields.io/badge/LinkedIn-HaroonAsifMalik-blue?style=flat-square&logo=linkedin" /></a>
+  <b>Senior Full Stack Developer | Python & JavaScript Specialist | Scalable Web Architect</b>
 </p>
-
----
-
-## 👨‍💻 About Me
-
-I'm Haroon — a passionate **Full Stack Developer** focused on building modern, scalable web applications. I specialize in **Python** (Django, Flask) and **JavaScript** (React, Next.js), and love blending data-driven features into products using **Machine Learning**.
-
-I care about clean architecture, reusability, and performance. Whether it’s an e-commerce platform or ML-integrated dashboard, I strive to deliver impactful digital experiences.
-
----
-
-## 🛠️ Tech Stack
-
-| Backend | Frontend | ML/AI | Dev Tools |
-|--------|---------|--------|-----------|
-| ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white) <br> Django, Flask | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) <br> Next.js, JavaScript | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) <br> Scikit-Learn, Pandas | Git, Docker, VS Code, Postman |
-
----
-
-## 🚀 Featured Projects
-
-### 🛒 [E-commerce Platform](https://github.com/yourusername/ecommerce-platform)
-A robust, full-featured e-commerce site built with Django & React  
-✅ Auth, product listings, secure checkout, admin dashboard
-
-### ✍️ [Personal Blog Platform](https://github.com/yourusername/personal-blog)
-A minimalist blogging platform using Flask + Next.js  
-✅ Markdown editor, comment moderation, modern UI
-
-### 🧠 [ML Housing Price Predictor](https://github.com/yourusername/ml-model)
-Predicts housing prices using TensorFlow + Scikit-Learn  
-✅ Exploratory analysis, model training, performance tuning
-
----
-
-## 💬 Client Testimonials
-
-> *"Working with Haroon was a fantastic experience. Their expertise in Django and React brought our project to life. Highly recommended!"*  
-> — **Maarika Nina**
-
-> *"A true professional in every sense. Delivered our project on time and exceeded expectations."*  
-> — **Rafael Heide**
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HaroonAsifMalik&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaroonAsifMalik&layout=compact&theme=radical" height="150" />
+  <a href="mailto:haroonasifmalik123@gmail.com"><img src="https://img.shields.io/badge/Email-HaroonAsifMalik123@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/haroon_asif_malik"><img src="https://img.shields.io/badge/LinkedIn-HaroonAsifMalik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/HaroonAsifMalik"><img src="https://img.shields.io/badge/GitHub-@HaroonAsifMalik-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
----
 
-## 🤝 Let's Connect
+## 💡 Who Am I?
+
+```txt
+🧠 Full Stack Developer with 6+ years building modern, fast, and intelligent web applications.
+🛠️ Focused on performance, clean architecture, security, and real-world value.
+🎯 Languages: Python, JavaScript, TypeScript
+🚀 Frameworks: Django, Flask, React, Next.js
+🧪 Machine Learning: TensorFlow, scikit-learn, Pandas
+☁️ Cloud & DevOps: Docker, CI/CD, Nginx, AWS, GCP
+````
+
+
+## ⚙️ Tech Stack & Tooling
 
 <p align="center">
-  <a href="mailto:haroonasifmalik123@gmail.com"><img src="https://img.shields.io/badge/Email-me-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://linkedin.com/in/haroon_asif_malik"><img src="https://img.shields.io/badge/LinkedIn-connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <img src="https://skillicons.dev/icons?i=python,django,flask,js,ts,react,nextjs,tailwind,html,css,tensorflow,sklearn,docker,git,linux,aws,vscode,postman" />
 </p>
 
----
 
-<p align="center"><i>Thank you for visiting my GitHub! Let's build something amazing together. 🚀</i></p>
+## 🚀 Project Showcase
+
+| Project                         | Description                                                                     | Tools Used               | Link                                                       |
+| ------------------------------- | ------------------------------------------------------------------------------- | ------------------------ | ---------------------------------------------------------- |
+| 🛒 **E-commerce Platform**      | Secure, full-featured online store with admin dashboard, Stripe, and REST APIs. | Django, React, Stripe    | [Repo](https://github.com/yourusername/ecommerce-platform) |
+| ✍️ **Personal Blog System**     | Minimal blogging site with markdown editor and comment system.                  | Flask, Next.js           | [Repo](https://github.com/yourusername/personal-blog)      |
+| 🧠 **ML House Price Predictor** | Predicts housing prices using regression models and EDA.                        | Scikit-Learn, TensorFlow | [Repo](https://github.com/yourusername/ml-model)           |
+
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HaroonAsifMalik&theme=tokyonight&show_icons=true&count_private=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaroonAsifMalik&theme=tokyonight&layout=compact" width="300"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HaroonAsifMalik&theme=tokyonight" width="700" />
+</p>
+
+
+## 💬 What Clients Say
+
+> 🗣️ *"Haroon is a powerhouse. From scalable backends to beautiful UIs, he handled it all with precision and speed."*
+> — **Rafael Heide**, Founder at Cloudify
+
+> 🗣️ *"One of the most reliable engineers I've hired. Professional, communicative, and always delivers."*
+> — **Maarika Nina**, PM at DevSphere
+
+## 📅 Book a Session | Work With Me
+
+I work with clients worldwide on:
+
+* ⚙️ Web App Development & Architecture
+* 📊 ML Dashboard Integration
+* 🔒 Secure Backend Systems
+* 🚀 MVP Prototyping
+
+📩 **Available for**: Freelance | Contract | Part-Time CTO | Consultations
+🧾 Platforms I use:
+
+* [Upwork Profile](https://www.upwork.com/freelancers/~your-profile-id)
+* [Calendly - Schedule a Call](https://calendly.com/haroon-asif/intro-call)
+
+
+## ✨ Activity & Contributions
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaroonAsifMalik&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaroonAsifMalik&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HaroonAsifMalik&theme=github_dark" />
+</p>
+
+
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="mailto:haroonasifmalik123@gmail.com"><img src="https://img.shields.io/badge/Email Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/haroon_asif_malik"><img src="https://img.shields.io/badge/LinkedIn Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://calendly.com/haroon-asif/intro-call"><img src="https://img.shields.io/badge/Book Intro Call-00BFA5?style=for-the-badge&logo=google-calendar&logoColor=white"></a>
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Delivering+Smart,+Scalable+Software.;Python+%7C+React+%7C+Django+%7C+Machine+Learning.;Helping+clients+scale+and+automate+through+code."/>
+</p>
+
+<p align="center"><i>Thanks for visiting! Let’s turn your idea into reality. 🚀</i></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HaroonAsifMalik&label=Profile%20Views&color=FF6F61&style=flat" />
+  <img src="https://img.shields.io/github/followers/HaroonAsifMalik?label=Followers&style=flat-square&color=FF6F61" />
+  <img src="https://img.shields.io/github/stars/HaroonAsifMalik?style=flat-square&color=FF6F61" />
+</p>
