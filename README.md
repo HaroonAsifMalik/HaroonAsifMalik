@@ -47,10 +47,12 @@ I work with clients and businesses to design, build, and ship software that solv
 
 ## GitHub Insights
 
+<!-- not working
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HaroonAsifMalik&theme=tokyonight&show_icons=true&count_private=true" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaroonAsifMalik&theme=tokyonight&layout=compact" width="300"/>
 </p>
+-->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HaroonAsifMalik&theme=tokyonight" width="700" />
